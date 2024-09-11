@@ -3,5 +3,4 @@ CHANGELOG v1.3
 - Added Item Frames with minor tweaks
 - Remade bell
 - Remade Slimeball
-- Tweaked certain item textures like: Bread, cookie, painting
-
+- Tweaked certain item textures like: Bread, cookie, painting, cooked porkshop
