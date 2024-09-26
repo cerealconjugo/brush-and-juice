@@ -1,3 +1,5 @@
 CHANGELOG v 3.0
-- tweaked bread
-- tweaked egg
+- Minor tweaks to bread
+- Minor tweaks to egg
+- Mayor tweaks to the Creeper texture
+- Backported GUI tweaks to 1.20 compat
