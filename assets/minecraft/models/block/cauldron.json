@@ -1,0 +1,123 @@
+{
+	"credit": "Made with Blockbench by CerealConJugo",
+	"textures": {
+		"1": "block/cauldron_inner",
+		"2": "block/cauldron_top",
+		"3": "block/cauldron_inside",
+		"particle": "block/cauldron_side",
+		"side": "block/cauldron_side"
+	},
+	"elements": [
+		{
+			"name": "side cauldron",
+			"from": [0, 2, 0],
+			"to": [16, 16, 16],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 14], "texture": "#side"},
+				"east": {"uv": [0, 0, 16, 14], "texture": "#side"},
+				"south": {"uv": [0, 0, 16, 14], "texture": "#side"},
+				"west": {"uv": [0, 0, 16, 14], "texture": "#side"},
+				"down": {"uv": [13, 7, 15, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [11, 0, 11],
+			"to": [16, 2, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, 17]},
+			"faces": {
+				"north": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"east": {"uv": [0, 14, 5, 16], "texture": "#side"},
+				"south": {"uv": [11, 14, 16, 16], "texture": "#side"},
+				"west": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"up": {"uv": [0, 0, 5, 2], "texture": "#missing"},
+				"down": {"uv": [13, 7, 15, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 11],
+			"to": [5, 2, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 0, 17]},
+			"faces": {
+				"north": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"east": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"south": {"uv": [0, 14, 5, 16], "texture": "#side"},
+				"west": {"uv": [11, 14, 16, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 5, 2], "texture": "#missing"},
+				"down": {"uv": [13, 7, 15, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 0, 0],
+			"to": [5, 2, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [15, 0, -1]},
+			"faces": {
+				"north": {"uv": [11, 14, 16, 16], "texture": "#side"},
+				"east": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"south": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"west": {"uv": [0, 14, 5, 16], "texture": "#side"},
+				"up": {"uv": [0, 0, 5, 2], "texture": "#missing"},
+				"down": {"uv": [13, 7, 15, 9], "texture": "#1"}
+			}
+		},
+		{
+			"from": [11, 0, 0],
+			"to": [16, 2, 5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [1, 0, -1]},
+			"faces": {
+				"north": {"uv": [0, 14, 5, 16], "texture": "#side"},
+				"east": {"uv": [11, 14, 16, 16], "texture": "#side"},
+				"south": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"west": {"uv": [13, 7, 15, 9], "texture": "#1"},
+				"up": {"uv": [0, 0, 5, 2], "texture": "#missing"},
+				"down": {"uv": [13, 7, 15, 9], "texture": "#1"}
+			}
+		},
+		{
+			"name": "inside cauldron",
+			"from": [14, 16, 14],
+			"to": [2, 3, 2],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-1, -1, -1]},
+			"faces": {
+				"north": {"uv": [2, 0, 14, 13], "rotation": 180, "texture": "#3"},
+				"east": {"uv": [2, 0, 14, 13], "rotation": 180, "texture": "#3"},
+				"south": {"uv": [2, 0, 14, 13], "rotation": 180, "texture": "#3"},
+				"west": {"uv": [2, 0, 14, 13], "rotation": 180, "texture": "#3"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#1"}
+			}
+		},
+		{
+			"from": [0, 15, 14],
+			"to": [16, 16, 16],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 16]},
+			"faces": {
+				"up": {"uv": [16, 2, 0, 0], "texture": "#2"},
+				"down": {"uv": [1.33333, 1, 0, 0.66667], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [14, 15, 2],
+			"to": [16, 16, 14],
+			"rotation": {"angle": 0, "axis": "y", "origin": [16, 0, 16]},
+			"faces": {
+				"up": {"uv": [0, 2, 2, 14], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [1.33333, 1, 0, 0.66667], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 15, 2],
+			"to": [2, 16, 14],
+			"faces": {
+				"up": {"uv": [14, 2, 16, 14], "rotation": 180, "texture": "#2"},
+				"down": {"uv": [0, 0.66667, 1.33333, 1], "texture": "#missing"}
+			}
+		},
+		{
+			"from": [0, 15, 0],
+			"to": [16, 16, 2],
+			"faces": {
+				"up": {"uv": [0, 0, 16, 2], "texture": "#2"}
+			}
+		}
+	],
+	"display": {}
+}
