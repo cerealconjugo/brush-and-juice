@@ -5,7 +5,9 @@
       "min_inclusive": 15,
       "max_inclusvie": 34
     },
-    "description": "A bunch of Tweaks by §6@CerealConJugo"
+
+    "description": "A bunch of Tweaks by §6@CerealConJugo",
+
   },
   "overlays": {
     "entries": [
