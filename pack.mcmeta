@@ -3,16 +3,19 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusvie": 400
+      "max_inclusvie": 40
     },
     "description": "A bunch of Tweaks by §6@CerealConJugo"
   },
   "overlays": {
     "entries": [
       {
-        "directory": "15",
-        "formats": [15]
+        "directory": "16",
+        "formats": {
+          "min_inclusive": 16,
+          "max_inclusive": 100,
         }
+      }
     ]
   }
 
