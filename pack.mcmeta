@@ -3,11 +3,9 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusvie": 34
+      "max_inclusive": 34
     },
-
-    "description": "A bunch of Tweaks by §6@CerealConJugo"
-
+    "description": "A bunch of Tweaks! by §6@CerealConJugo"
   },
   "overlays": {
     "entries": [
@@ -20,5 +18,4 @@
       }
     ]
   }
-
 }
