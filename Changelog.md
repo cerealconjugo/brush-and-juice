@@ -1,12 +1,15 @@
 CHANGELOG v 3.0
 
 - Added **Cauldron**
-- Added **jukebox**
+- Added **Jukebox**
 
 
 - Added **Apple**
 - Added **Pumpkim pie**
 - Added **Cooked beef**
+
+
+- Added **Shield**
 
 
 - Remade **Creeper**
@@ -18,4 +21,4 @@ CHANGELOG v 3.0
 - Tweaked **Bread** again
 
 
-- Backported GUI tweaks to **1.20 compat** 
+- Backported **GUI** tweaks to **1.20** compat 
