@@ -1,6 +1,16 @@
 {
   "pack": {
     "pack_format": 34,
+    "supported_formats": [15,34],
     "description": "A bunch of Tweaks by §6@CerealConJugo"
+  },
+  "overlays": {
+    "entries": [
+      {
+        "directory": "15",
+        "formats": [15]
+      }
+    ]
   }
+
 }

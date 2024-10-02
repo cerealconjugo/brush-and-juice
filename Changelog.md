@@ -1,24 +1,23 @@
-CHANGELOG v 3.0
+CHANGELOG **v 3.0**
 
-- Added **Cauldron**
-- Added **Jukebox**
-
-
-- Added **Apple**
-- Added **Pumpkim pie**
-- Added **Cooked beef**
+- Added **Cauldron**, remodel and re-textured
+- Added **Jukebox**, re-textured and tweaks to the palette
 
 
-- Added **Shield**
+- Added **Apple**, added a little leaf and minor tweaks to the outline
+- Added **Pumpkim pie**, tweaked shadowing
+- Added **Cooked beef**, added some color to make it look more yumi
 
 
-- Remade **Creeper**
+- Added **Shield**, gave some love to the original design
 
 
-- Tweaked **Egg**
-- Tweaked **Bread**
-- Tweaked **Cookie**
-- Tweaked **Bread** again
+- Remade **Creeper**, trying to get a less noise/more coherent texture 
 
 
-- Backported **GUI** tweaks to **1.20** compat 
+- Tweaked **Egg**, changes to the shadowing to be less noise
+- Tweaked **Bread**, changes to the shadowing
+- Tweaked **Cookie**, minor tweaks to the cocoa chips
+
+
+- Proper **multi-version** support through **supported_formats**, allowing me to separate sprites per version. 
