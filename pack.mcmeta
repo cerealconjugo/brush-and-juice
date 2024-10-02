@@ -11,11 +11,8 @@
     "entries": [
       {
         "directory": "15",
-        "formats": {
-          "min_inclusive": 15,
-          "max_inclusvie": 400
+        "formats": [15]
         }
-      }
     ]
   }
 
