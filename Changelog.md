@@ -23,6 +23,8 @@ CHANGELOG **v 3.0**
 - Tweaked **Egg**, changes to the shadowing to be less noise
 - Tweaked **Bread**, changes to the shadowing
 - Tweaked **Cookie**, minor tweaks to the chips
+- Tweaked **kelp**, minor tweaks
+- 
 
 **Other**
 - Proper **multi-version** support through **supported_formats** tag, allowing me to separate sprites per version. 
