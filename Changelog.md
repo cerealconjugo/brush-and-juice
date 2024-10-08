@@ -7,7 +7,7 @@ CHANGELOG **v 3.0**
 - Added **Apple**, added a little leaf and minor tweaks to the outline
 - Added **Pumpkin pie**, tweaked shadowing
 - Added **Cooked beef**, added some color to make it look more yumi
-- Added **Arrow**, item, tweaked the shape and slightly change the palette.
+- Added **Arrow**,tweaked the shape and slightly change the palette.
 
 **Entities**
 - Added **Shield**, gave some love to the original design
@@ -24,7 +24,8 @@ CHANGELOG **v 3.0**
 - Tweaked **Bread**, changes to the shadowing
 - Tweaked **Cookie**, minor tweaks to the chips
 - Tweaked **kelp**, minor tweaks
-- 
+- Tweaked **bell**, minor tweaks to the bell upper part
+
 
 **Other**
 - Proper **multi-version** support through **supported_formats** tag, allowing me to separate sprites per version. 
