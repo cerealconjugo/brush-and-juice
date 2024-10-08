@@ -27,6 +27,7 @@ CHANGELOG **v 3.0**
 - Tweaked **Cookie**, minor tweaks to the chips.
 - Tweaked **kelp**, minor tweaks.
 - Tweaked **bell**, minor tweaks to the bell upper part.
+- Tweaked **Shadow**, mostly adding some texture to the... black texture?
 
 
 **Other**
