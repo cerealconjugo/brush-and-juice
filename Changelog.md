@@ -28,6 +28,7 @@ CHANGELOG **v 3.0**
 - Tweaked **kelp**, minor tweaks.
 - Tweaked **bell**, minor tweaks to the bell upper part.
 - Tweaked **Shadow**, mostly adding some texture to the... black texture?
+- Tweaked **Torches**, change shadowing... not sure about this change, let me know what you think!
 
 
 **Other**
