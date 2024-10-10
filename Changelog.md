@@ -10,6 +10,7 @@ CHANGELOG **v 3.0**
 - Added **Arrow**,tweaked the shape and slightly change the palette.
 - Added **Paper**, tweaked palette and shadowing.
 - Added **Filled Map**, consistency with paper tweaks.
+- Added **Iron Ingot**, tweaked color palette a bit using my gold ingot re-texture as a base.
 
 **Entities**
 - Added **Shield**, gave some love to the original design.
