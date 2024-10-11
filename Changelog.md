@@ -13,7 +13,7 @@ CHANGELOG **v 3.0**
 - Added **Fishing Rod**, some changes to the fishing rod design.
 - Added **Carrot on a stick / Warped fungus on a stick**, updated to be consistent with the new fishing rod design.
 - Added **Paper**, tweaked palette and shadowing.
-- Added **Filled Map**, consistency with paper tweaks.
+- Added **Map / Filled Map**, consistency with paper tweaks.
 - Added **Iron Ingot**, tweaked color palette a bit using my gold ingot re-texture as a base.
 
 **Entities**
