@@ -34,6 +34,7 @@ CHANGELOG **v 3.0**
 - Tweaked **bell**, minor tweaks to the bell upper part.
 - Tweaked **Shadow**, mostly adding some texture to the... _black texture_?
 - Tweaked **Torches**, change shadowing... not sure about this change, let me know what you think!
+- Tweaked **Bee**, changed bee eyes to make them more cute (i think).
 
 
 **Other**
