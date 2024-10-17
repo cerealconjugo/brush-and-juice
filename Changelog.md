@@ -13,7 +13,8 @@ CHANGELOG **v 4.0**
 - Tweaked **Fishing Rod / Carrot on a Stick / Warped Fungus on a Stick**, some changes to the palette and shape, because I wasn't very satisfied with the previous one.
 - Tweaked **Egg**, added little darker shadow to add contrast.
 - Tweaked **Toasts**, further tweaks to the design and palette.
-- Tweaked **Bow / Pulling Bow**, further tweaks to the bow design, specially the string and the holder designs.
+- Remade **Bow / Pulling Bow**, further tweaks to the bow design and palette.
+- Remade **Arrow / Tipped Arrow**, mostly palette and shadowing rework.
 
 **Removed**
 - Lead, doe to not having significant changes, may re-texture in the future.
