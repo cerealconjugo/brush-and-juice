@@ -5,6 +5,7 @@ CHANGELOG **v 4.0**
 **Items**
 - Added **Glow berries**, reshape and little tweaks to the palette
 - Added **Crossbow**, replaced the arrow to look like the new re-sprite one.
+- Added **Bell item**, 
 
 **Entities**
 
@@ -14,7 +15,8 @@ CHANGELOG **v 4.0**
 - Tweaked **Egg**, added little darker shadow to add contrast.
 - Tweaked **Toasts**, further tweaks to the design and palette.
 - Tweaked **Crafting Table**, minor tweaks for consistency. 
-- Tweaked **Apple leaf**, tweaks to the leaf palette and shape
+- Tweaked **Apple leaf**, tweaks to the leaf palette and shape.
+- Tweaked **Bell**, minor tweaks to the bell entity.
 - Remade **Fishing Rod / Carrot on a Stick / Warped Fungus on a Stick**, some changes to the palette and shape, because I wasn't very satisfied with the previous one.
 - Remade **Bow / Pulling Bow states**, further tweaks to the bow design and palette.
 - Remade **Arrow / Tipped Arrow**, mostly palette and shadowing rework.
