@@ -17,6 +17,7 @@ CHANGELOG **v 4.0**
 - Tweaked **Crafting Table**, minor tweaks for consistency. 
 - Tweaked **Apple leaf**, tweaks to the leaf palette and shape.
 - Tweaked **Bell**, minor tweaks to the bell entity.
+- Tweaked **Barrel Top / Open Top**, slightly tweaks to the palette and added some juice to the inside barrel.
 - Remade **Fishing Rod / Carrot on a Stick / Warped Fungus on a Stick**, some changes to the palette and shape, because I wasn't very satisfied with the previous one.
 - Remade **Bow / Pulling Bow states**, further tweaks to the bow design and palette.
 - Remade **Arrow / Tipped Arrow**, mostly palette and shadowing rework.
