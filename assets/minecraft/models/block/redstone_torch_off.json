@@ -1,0 +1,8 @@
+{
+  "_comment": "This is the vanilla model.",
+  
+  "parent": "minecraft:block/template_torch_unlit",
+  "textures": {
+    "torch": "minecraft:block/redstone_torch_off"
+  }
+}

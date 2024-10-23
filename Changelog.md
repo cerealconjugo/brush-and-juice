@@ -6,6 +6,7 @@ CHANGELOG **v 4.0**
 - Added **Glow berries**, reshape and little tweaks to the palette
 - Added **Crossbow**, replaced the arrow to look like the new re-sprite one.
 - Added **Bell item**, parity with the bell model I guess.
+- Added **Redstone Torch**, backported 1.21.2 torch and changed for parity with the previous design.
 
 **Entities**
 
