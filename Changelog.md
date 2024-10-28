@@ -3,16 +3,20 @@ CHANGELOG **v 4.0**
 **Blocks**
 
 **Items**
-- Added **Glow berries**, reshape and little tweaks to the palette
+- Added **Glow Berries**, reshape and little tweaks to the palette
 - Added **Crossbow**, replaced the arrow to look like the new re-sprite one.
-- Added **Bell item**, parity with the bell model I guess.
+- Added **Bell**, parity with the model I guess.
 - Added **Redstone Torch**, backported 1.21.2 torch and changed for parity with the previous design.
+- Added **Gold Nugget**, parity with the ingot palette.
+- Added **Feather**, changed design to look more like the slow falling icon.
+
 
 **Entities**
 - Tweaked **Chests**, tweaked all chest opened texture. I think it looks pretty.
 
 
 **GUI**
+- Added **Effect background** , tweaks to design and palette.
 
 **Retouched**
 - Tweaked **Egg**, added little darker shadow to add contrast.
@@ -21,9 +25,10 @@ CHANGELOG **v 4.0**
 - Tweaked **Apple leaf**, tweaks to the leaf palette and shape.
 - Tweaked **Bell**, minor tweaks to the bell entity.
 - Tweaked **Barrel Top / Open Top**, slightly tweaks to the palette and added some juice to the inside barrel.
-- Tweaked **Item Frame / Glowing Item Frame Items**, a bit of changes that i feel make them look more appealing.
+- Tweaked **Item Frame / Glowing Item Frame Items**, a bit of changes that I feel make them look more appealing.
 - Tweaked **Item Frame**, change one color... literally.
-- Tweaked **Paper**, little changes to the color palette.
+- Tweaked **Map / filled map**, changed the shape to distinct itself more from the paper texture.
+- Tweaked **Paper**, changed the palette to look similar to the banner patterns added in 1.21.2.
 
 - Remade **Slime Ball**, hopefully this redesign makes the item look lees noisy and more pretty (this is the last time I remade this I promise... or not).
 - Remade **Fishing Rod / Carrot on a Stick / Warped Fungus on a Stick**, some changes to the palette and shape, because I wasn't very satisfied with the previous one.
