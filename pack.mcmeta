@@ -3,9 +3,9 @@
     "pack_format": 15,
     "supported_formats": {
       "min_inclusive": 15,
-      "max_inclusive": 40
+      "max_inclusive": 42
     },
-    "description": "A bunch of Tweaks! by §6@CerealConJugo"
+    "description": "Some Tweaks! by §6@CerealConJugo"
   },
   "overlays": {
     "entries": [

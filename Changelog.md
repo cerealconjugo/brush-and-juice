@@ -16,13 +16,14 @@ CHANGELOG **v 4.0**
 
 **Retouched**
 - Tweaked **Egg**, added little darker shadow to add contrast.
-- Tweaked **Toasts**, further tweaks to the design and palette.
+- Tweaked **Toasts**, further tweaks to the design and palette. Mostly consistency and colors.
 - Tweaked **Crafting Table**, mayor tweaks. 
 - Tweaked **Apple leaf**, tweaks to the leaf palette and shape.
 - Tweaked **Bell**, minor tweaks to the bell entity.
 - Tweaked **Barrel Top / Open Top**, slightly tweaks to the palette and added some juice to the inside barrel.
 - Tweaked **Item Frame / Glowing Item Frame Items**, a bit of changes that i feel make them look more appealing.
 - Tweaked **Item Frame**, change one color... literally.
+- Tweaked **Paper**, little changes to the color palette.
 
 - Remade **Slime Ball**, hopefully this redesign makes the item look lees noisy and more pretty (this is the last time I remade this I promise... or not).
 - Remade **Fishing Rod / Carrot on a Stick / Warped Fungus on a Stick**, some changes to the palette and shape, because I wasn't very satisfied with the previous one.
@@ -34,3 +35,4 @@ CHANGELOG **v 4.0**
 - Lead, doe to not having significant changes, may re-texture in the future.
 
 **Other**
+- Added 1.22.2 / 1.22.3 support by changing supported format max value.
