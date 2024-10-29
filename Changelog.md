@@ -9,6 +9,8 @@ CHANGELOG **v 4.0**
 - Added **Redstone Torch**, backported 1.21.2 torch and changed for parity with the previous design.
 - Added **Gold Nugget**, parity with the ingot palette.
 - Added **Iron Nugget**, minor tweaks.
+- Added **Cake**, tweaked colors (inspired by Bountiful cake texture!).
+- Added **Cake Slice (FD)**, parity with the new palette.
 
 
 **Entities**
