@@ -8,6 +8,7 @@ CHANGELOG **v 4.0**
 - Added **Bell**, parity with the model I guess.
 - Added **Redstone Torch**, backported 1.21.2 torch and changed for parity with the previous design.
 - Added **Gold Nugget**, parity with the ingot palette.
+- Added **Iron Nugget**, minor tweaks.
 
 
 **Entities**
