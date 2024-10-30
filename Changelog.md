@@ -10,7 +10,7 @@ CHANGELOG **v 4.0**
 - Added **Gold Nugget**, parity with the ingot palette.
 - Added **Iron Nugget**, minor tweaks.
 - Added **Cake**, tweaked colors (inspired by Bountiful cake texture!).
-- Added **Cake Slice (FD)**, parity with the new palette.
+- Added **Stick**, tweaked saturation a bit. (Will change all stick related tools as of this change, for example fishing rods)
 
 
 **Entities**
@@ -38,8 +38,15 @@ CHANGELOG **v 4.0**
 - Remade **Arrow / Tipped Arrow**, mostly palette and shadowing rework.
 - Remade **Arrow Entity**, parity with the new arrow design.
 
-**Removed**
-- Lead, doe to not having significant changes, may re-texture in the future.
+
+**Mod Compat**
+- Added **Cake Slice (Farmer's Delight)**, parity with the new palette.
+- Added **Pear / Apple / Golden Apple Crates**, (No Man's Land) parity with FD ones, for consistency. 
+
 
 **Other**
 - Added 1.22.2 / 1.22.3 support by changing supported format max value.
+
+
+**Removed**
+- Lead, doe to not having significant changes, may re-texture in the future.
