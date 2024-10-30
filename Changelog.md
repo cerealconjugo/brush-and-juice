@@ -10,7 +10,7 @@ CHANGELOG **v 4.0**
 - Added **Gold Nugget**, parity with the ingot palette.
 - Added **Iron Nugget**, minor tweaks.
 - Added **Cake**, tweaked colors (inspired by Bountiful cake texture!).
-- Added **Stick**, tweaked saturation a bit. (Will change all stick related tools as of this change, for example fishing rods)
+- Added **Stick**, tweaked saturation a bit. (Will change all stick related tools as of this change, for example fishing rods and arrows)
 
 
 **Entities**
