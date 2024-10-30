@@ -20,6 +20,7 @@ CHANGELOG **v 4.0**
 **GUI**
 - Added **Effect background** , tweaks to design and palette.
 
+
 **Retouched**
 - Tweaked **Egg**, added little darker shadow to add contrast.
 - Tweaked **Toasts**, further tweaks to the design and palette. Mostly consistency and colors.
