@@ -34,6 +34,7 @@ CHANGELOG **v 4.0**
 - Tweaked **Map / filled map**, changed the shape to distinct itself more from the paper texture.
 - Tweaked **Paper**, changed the palette to look similar to the banner patterns added in 1.21.2.
 - Tweaked **Bone**, tweaks to the shadowing.
+- Tweaked **Bread**, less noisy and desaturated. Hopefully it helps to easily understand the shape.
 
 - Remade **Slime Ball**, hopefully this redesign makes the item look lees noisy and more pretty (this is the last time I remade this I promise... or not).
 - Remade **Fishing Rod / Carrot on a Stick / Warped Fungus on a Stick**, some changes to the palette and shape, because I wasn't very satisfied with the previous one.
