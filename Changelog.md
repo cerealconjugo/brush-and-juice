@@ -1,6 +1,8 @@
 CHANGELOG **v 4.0**
 
 **Blocks**
+- Added **Cake**, tweaked some colors to match the new item sprite.
+
 
 **Items**
 - Added **Glow Berries**, reshape and little tweaks to the palette
