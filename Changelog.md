@@ -41,6 +41,8 @@ CHANGELOG **v 4.0**
 - Remade **Bow / Pulling Bow states**, further tweaks to the bow design and palette.
 - Remade **Arrow / Tipped Arrow**, mostly palette and shadowing rework.
 - Remade **Arrow Entity**, parity with the new arrow design.
+- Remade **Flower Pot Item**, new design and palette.
+- Remade **Flower Pot Block**, redesigned, new palette.
 
 
 **Mod Compat**
