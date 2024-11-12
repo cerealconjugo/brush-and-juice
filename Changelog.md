@@ -23,6 +23,8 @@ CHANGELOG **v 4.5**
 - Tweaked **Bone Meal**, mayor tweaks to the shape and palette. 
 - Tweaked **Gold_ingot**, minor tweaks to the palette.
 - Tweaked **Iron Ingot**, tweaks to the outline palette and clean up design.
+- Remade **Item / Glow Item Frame**, simplified the design, and minor tweaks to the palette.
+- Remade **Painting**, Simplified the design, minor tweaks to the frame's palette. 
 - Remade **Rabbit Stew**, reducing the palette by half, aiming for a more clear design. Moved the sprite 1 pixel up for consistency with the mushroom soup.
 
 **Mod Compat**
