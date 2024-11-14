@@ -23,6 +23,7 @@ CHANGELOG **v 4.5**
 - Tweaked **Bone Meal**, mayor tweaks to the shape and palette. 
 - Tweaked **Gold_ingot**, minor tweaks to the palette.
 - Tweaked **Iron Ingot**, tweaks to the outline palette and clean up design.
+- Tweaked **Bow**, tweaks to the palette to make it less red-ish.
 - Remade **Bee**, I do a new bee design from scratch, with a bit more vivid colors and an overall better design, faithful to the vanilla one.
 - Remade **Shield**, mayor tweaks to the palette, changed the design of the back, changed the shields frame palette and shading.
 - Remade **Item / Glow Item Frame**, simplified the design, and minor tweaks to the palette.
