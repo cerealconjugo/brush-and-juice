@@ -24,6 +24,7 @@ CHANGELOG **v 4.5**
 - Tweaked **Gold_ingot**, minor tweaks to the palette.
 - Tweaked **Iron Ingot**, tweaks to the outline palette and clean up design.
 - Tweaked **Bow**, tweaks to the palette to make it less red-ish.
+- Remade **Sunflower**, changed the palette and design of the previous version.
 - Remade **Bee**, I do a new bee design from scratch, with a bit more vivid colors and an overall better design, faithful to the vanilla one.
 - Remade **Shield**, mayor tweaks to the palette, changed the design of the back, changed the shields frame palette and shading.
 - Remade **Item / Glow Item Frame**, simplified the design, and minor tweaks to the palette.
@@ -35,5 +36,6 @@ CHANGELOG **v 4.5**
 - Tweaked **FD Food Items of b&j**, those items tweaked before like Bone Broth and Sandwiches are tweaked to be in parity with the actual bone and bread textures.
 
 **Other**
+- Reduced about the size of all item sprites by 200%. (previously the files where heavier because of that i missed with the color settings of Aseprite...)
 
 **Removed**
