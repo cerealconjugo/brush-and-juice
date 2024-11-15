@@ -5,6 +5,9 @@ CHANGELOG **v 4.5**
 
 
 **Items**
+- Added **Name Tag**, changed design, palette and color. 
+- Added **Beetroot**, changes to the shadowing and palette. Added a little rots to the sides.
+- Added **Carrot**, changes to the shadowing and palette. Added a little rots to the sides like the beetroot.
 - Added **Netherite Ingot**, changed palette and tweaked design to make it look like the other ingots.
 - Added **Mushroom Stew**, changed palette and tweaked design.
 - Added **Iron Tools set**, with little tweaks to the palette, including a new shading and highlight style and little tweaks to the designs.
