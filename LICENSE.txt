@@ -1,6 +1,8 @@
 ARR License - Brush & Juice
 Copyright © [cerealconjugo], [2024]. All Rights Reserved.
 
+---
+
 Terms and Conditions of Use:
 Prohibition of Redistribution:
 This content, in whole or in part, may not be redistributed, uploaded to third-party platforms, or shared through any means, whether free or commercial, without the explicit written consent of the author.
