@@ -9,3 +9,6 @@ Brush and Juice is protected under an **All Rights Reserved** license.
 - Use in modpacks is allowed with proper credit.  
 
 See the full license details in the [LICENSE](./LICENSE) file.
+
+## Contact
+For permissions, feedback, or questions, contact me via discord: cerealconjugoo
