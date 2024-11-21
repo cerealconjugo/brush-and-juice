@@ -8,4 +8,4 @@ Brush and Juice is protected under an **All Rights Reserved** license.
 - Redistribution and modification are prohibited without explicit permission from the author.  
 - Use in modpacks is allowed with proper credit.  
 
-See the full license details in the [LICENSE](./LICENSE.txt) file.
+See the full license details in the [LICENSE](./LICENSE) file.
