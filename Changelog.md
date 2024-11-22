@@ -41,5 +41,5 @@ CHANGELOG **v 4.5**
 
 **Other**
 - Reduced about the size of all item sprites by 200%. (previously the files where heavier because of that I missed with the color settings of Aseprite...)
-
+- Changed **license from MIT to ARR**. Now that I understand more my copyright needs for my projects I've chosen a license that fits better to protect my work.
 **Removed**
