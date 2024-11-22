@@ -4,33 +4,38 @@ Copyright © [cerealconjugo], [2024]. All Rights Reserved.
 ---
 
 Terms and Conditions of Use:
-Prohibition of Redistribution:
-This content, in whole or in part, may not be redistributed, uploaded to third-party platforms, or shared through any means, whether free or commercial, without the explicit written consent of the author.
 
-Personal Use and Modpacks:
-The content of Brush & Juice is authorized for personal use within the game Minecraft.
-Use in modpacks is explicitly allowed, provided the modpack credits Brush & Juice as the source texture pack and includes a link to the official download page.
+1. Prohibition of Redistribution:
+   This content, in whole or in part, may not be redistributed, uploaded to third-party platforms, or shared through any means, whether free or commercial, without the explicit written consent of the author.
 
-Original and Modified Assets:
-Original textures: Many textures in Brush & Juice are entirely the author's creation and are protected under copyright law.
-Modified base game assets: The pack also includes assets derived from the base game Minecraft, which remain subject to Mojang Studios' End User License Agreement (EULA). Users must comply with Mojang's terms when using this content.
+2. Personal Use and Modpacks:
+   - The content of Brush & Juice is authorized for personal use within the game Minecraft.
+   - Use in modpacks is explicitly allowed under the following conditions:
+     - The modpack credits Brush & Juice as the source texture pack and includes a link to the official download page.
+     - Modifications are permitted exclusively for compatibility purposes within the modpack.
 
-Restrictions on Modifications:
-Modifying, adapting, or creating derivative works based on Brush & Juice is not allowed without the explicit written consent of the author.
-If permission is granted, modified content must remain for personal use and may not be redistributed.
+3. Original and Modified Assets:
+   - **Original Textures:** Many textures in Brush & Juice are entirely the author's creation and are protected under copyright law.
+   - **Modified Base Game Assets:** The pack also includes assets derived from the base game Minecraft, which remain subject to Mojang Studios' End User License Agreement (EULA). Users must comply with Mojang's terms when using this content.
 
-Commercial Use Prohibited:
-The commercial use of this content is strictly forbidden without explicit written agreement from the author. This includes, but is not limited to:
-Direct sales of the content.
-Inclusion in bundles or platforms generating revenue (e.g., monetized Minecraft servers).
+4. Restrictions on Modifications:
+   - Modifying, adapting, or creating derivative works based on Brush & Juice is not allowed without the explicit written consent of the author, except as stated in Section 2 for modpack compatibility.
+   - If permission is granted, modified content must remain for personal use and may not be redistributed.
 
-Exclusive Author Rights:
-All copyright and intellectual property rights for Brush & Juice belong exclusively to the author. This includes:
-Original textures: Fully created by the author.
-Modified base game assets: Edited from Minecraft's original textures.
+5. Commercial Use Prohibited:
+   The commercial use of this content is strictly forbidden without explicit written agreement from the author. This includes, but is not limited to:
+   - Direct sales of the content.
+   - Inclusion in bundles or platforms generating revenue (e.g., monetized Minecraft servers).
 
-Compliance Terms:
-Unauthorized use, redistribution, or violation of these terms may result in legal action, including the removal of the content from any unauthorized platform.
+6. Exclusive Author Rights:
+   All copyright and intellectual property rights for Brush & Juice belong exclusively to the author. This includes:
+   - **Original Textures:** Fully created by the author.
+   - **Modified Base Game Assets:** Edited from Minecraft's original textures.
 
-Contact for Special Permissions:
+7. Compliance Terms:
+   Unauthorized use, redistribution, or violation of these terms may result in legal action, including the removal of the content from any unauthorized platform.
+
+---
+
+Contact:
 For permission requests or inquiries about this license, contact the author at: [lhumbertoceledon@gmail.com].
