@@ -35,7 +35,7 @@ CHANGELOG **v 4.5**
 - Remade **Painting**, Simplified the design, minor tweaks to the frame's palette. 
 - Remade **Rabbit Stew**, reduced colour palette by half, aiming for a more clear design. Moved the sprite 1 pixel up for consistency with the mushroom soup.
 
-**Mod Compat**
+**Mod Compatibility**
 - Added **FD Knives**, for parity with the new Iron / Gold / Netherite palette and shading.
 - Tweaked **FD Food Items of b&j**, those items tweaked before like Bone Broth and Sandwiches are tweaked to be in parity with the actual bone and bread textures.
 
