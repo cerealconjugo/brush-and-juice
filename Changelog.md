@@ -26,7 +26,7 @@ CHANGELOG **v 4.5**
 - Tweaked **Iron Ingot**, tweaks to the outline palette and clean up design.
 - Tweaked **Bow**, tweaks to the palette to make it less red-ish.
 - Tweaked **Arrows**, slightly adjusted the shading palette to be less dark.
-- Tweaked **Air / Air Busting** hub icons, tweaks to the palette.
+- Tweaked **Air / Air Busting** hub icons, tweaks to the palette. 
 
 - Remade **Sunflower**, changed the palette and design of the previous version.
 - Remade **Bee**, I did a new bee design from scratch, with a bit more vivid colors and an overall better design, faithful to the vanilla one.
