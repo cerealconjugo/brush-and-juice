@@ -27,6 +27,7 @@ CHANGELOG **v 4.5**
 - Tweaked **Bow**, tweaks to the palette to make it less red-ish.
 - Tweaked **Arrows**, slightly adjusted the shading palette to be less dark.
 - Tweaked **Air / Air Busting** hub icons, tweaks to the palette. 
+- Tweaked **Advancement Toast**, little tweaks to the palette, the previous one looked way to red.
 
 - Remade **Sunflower**, changed the palette and design of the previous version.
 - Remade **Bee**, I did a new bee design from scratch, with a bit more vivid colors and an overall better design, faithful to the vanilla one.
@@ -42,4 +43,5 @@ CHANGELOG **v 4.5**
 **Other**
 - Reduced about the size of all item sprites by 200%. (previously the files where heavier because of that I missed with the color settings of Aseprite...)
 - Changed **license from MIT to ARR**. Now that I understand more my copyright needs for my projects I've chosen a license that fits better to protect my work.
+
 **Removed**
