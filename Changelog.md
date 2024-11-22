@@ -1,4 +1,4 @@
-CHANGELOG **v 4.5**
+CHANGELOG **v 1.0.0**
 
 **Blocks**
 
@@ -7,7 +7,7 @@ CHANGELOG **v 4.5**
 - Added **Beetroot**, changes to the shadowing and palette. Added a little rots to the sides.
 - Added **Carrot**, changes to the shadowing and palette. Added a little rots to the sides like the beetroot.
 - Added **Netherite Ingot**, changed palette and tweaked design to make it look like the other ingots.
-- Added **Netherite scrap**, 
+- Added **Netherite scrap**, completely remade, tweaked shape and colors!!!
 - Added **Mushroom Stew**, changed palette and tweaked design.
 - Added **Iron Tools set**, with little tweaks to the palette, including a new shading and highlight style and little tweaks to the designs.
 - Added **Gold Tools set**, completely remade the palette, same as the iron tool set, it includes a new shading style and little tweaks to the designs.
