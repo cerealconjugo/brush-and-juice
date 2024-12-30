@@ -10,4 +10,5 @@ CHANGELOG **v 1.0.1**
 
 ### Other changes
 - **Shield View**: Tweaked the shield view on first person to be less intrusive (on both left and right hands) and centered the shield item on the inventory slots.
+- **Torches**: Make all torches 3D on first and third person.
 - **Item highlight**: Tweaked the highlight when moving items for better item visibility.
