@@ -1,7 +1,8 @@
 CHANGELOG **v 1.0.1**
 
 ### Added Items
-
+- **Ender Eye**: New palette and shape.
+- **Ender Pearl**: New palette and shape.
 ### Retouched Items
 - **Pumpkin Pie**: Mostly tweaks to the palette of the shading and the outline with Less saturated colors. 
 - **Paper**: Tweaked the outline.
