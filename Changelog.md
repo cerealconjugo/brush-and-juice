@@ -18,6 +18,7 @@ CHANGELOG **v 1.0.1**
 
 
 ### Other changes
+- **Chests Inside-Upper Part**: Added the inside of the upper part of an open chest. Parity with the current re-texture.
 - **Note Particle**: Little tweaks to the note particle.
 - **Shield View**: Tweaked the shield view on first person to be less intrusive (on both left and right hands) and centered the shield item on the inventory slots.
 - **Torches**: Make all torches 3D on third person.
