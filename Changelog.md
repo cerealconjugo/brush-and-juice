@@ -1,4 +1,4 @@
-CHANGELOG **v 1.0.1**
+CHANGELOG **v 1.2.0**
 
 ### Added Items
 - **Ender Eye**: New palette and design.
