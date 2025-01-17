@@ -4,7 +4,8 @@ CHANGELOG **v 1.0.1**
 - **Ender Eye**: New palette and design.
 - **Ender Pearl**: New palette and design.
 - **Totem Of Undying**: Tweaks to the shading and palette.
-- **Golden Carrot**: New design and color. Consistency with the current carrot re-texture.
+- **Golden Carrot**: New design and palette. Consistency with the current carrot re-texture.
+- **Copper Ingot**: New design and palette. General tweaks to the shadowing and highlights. 
 
 ### Added Blocks
 - **Note Block**: Now uses the jukebox re-texture.
@@ -16,10 +17,12 @@ CHANGELOG **v 1.0.1**
 - **Apple**: Added new apple leaf, forgot to upload it previously.
 - **Cooked Beef**: Minor tweaks.
 
-
 ### Other changes
 - **Chests Inside-Upper Part**: Added the inside of the upper part of an open chest. Parity with the current re-texture.
 - **Note Particle**: Little tweaks to the note particle.
 - **Shield View**: Tweaked the shield view on first person to be less intrusive (on both left and right hands) and centered the shield item on the inventory slots.
 - **Torches**: Make all torches 3D on third person.
 - **Item highlight**: Tweaked the highlight when moving items, now is more subtle.
+
+## Mod Compatibility
+- **Visuality**: Tweaked bone particle texture to match the bone re-texture.
