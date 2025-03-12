@@ -1,26 +1,23 @@
-## Changelog: **v1.3.0**
+## **v1.5.0**
 
-#### Items
+------
 
-- Added **Potato**: Tweaked shadowing and palette.
-- Added **Poisonous Potato**: Minor tweaks to the palette.
-- Added **Baked Potato**: Updated to match the new potato shadowing, minor tweaks.
-- Added **Brush**: Tweaked palette and new design.
-- Added **Wood Toolset**: Tweaked palette and new design.
-- Added **Flint**: Tweaked color palette, minor design adjustments.
-- Added **Flint and Steel**: Minor palette tweaks to match the new Flint texture.
-- Tweaked **Shears**: Adjusted blade shadowing.
-- Tweaked **Bell**: Adjusted palette.
-- Tweaked **Bread**: Minor tweaks.
-- Tweaked **Paper, Map, Filled Map**: Minor tweaks to the map and paper outline. Minor adjustments to the filled map design to reduce noise in the markings. Tweaked markings palette.
-- Remade **Totem Of Undying**: Major design and palette adjustments.
+### Items
 
-#### Blocks
+- Added **Beetroot Soup**, new palette and design (more in line with the other tweaked soups)
+- Added **Blaze Powder**, Tweaked palette, new design.
+- Added **Ghast Tear**, tweaked palette and minor design changes.
+- Added **Hopper**, new palette and design.
 
-- Tweaked **Bell**: Fixed palette inconsistency between the item and entity. Adjusted palette and shadowing. General design improvements.
-- Added **End Portal Frame Eye**: Improved palette consistency with the new item sprite. Added glowing effect (similar to redstone torches).
+- Tweaked **Bread**, minor tweaks.
+- Tweaked **Bell**, remade from scratch.
+- Tweaked **Cookie**, tweaked palette and minor design improvements.
+- Tweaked **Flint and Steel**, simplified the flint design.
+- Tweaked **Pumpkin Pie**, tweaked outline and minor palette changes
+- Tweaked **Totem of undying**, changed design (inspired by the new villager spawn eggs added on vanilla 1.21.5).
 
-#### GUI
+------
 
-- Added **Hotbar**: Cleaned the palette for a less noisy appearance. Minor design changes.
-- Tweaked **Advancement Toast**: Further tweaks to the color palette. I think this is the last one!!
+### Entities
+
+- Tweaked **Bell**, remade, again, with tweaks to the palette, fix incorrect faces being untextured etc.
