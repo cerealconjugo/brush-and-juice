@@ -1,23 +1,39 @@
-## **v1.5.0**
+## **v2.1.0**
 
 ------
 
 ### Items
 
-- Added **Beetroot Soup**, new palette and design (more in line with the other tweaked soups)
-- Added **Blaze Powder**, Tweaked palette, new design.
-- Added **Ghast Tear**, tweaked palette and minor design changes.
-- Added **Hopper**, new palette and design.
-
-- Tweaked **Bread**, minor tweaks.
-- Tweaked **Bell**, remade from scratch.
-- Tweaked **Cookie**, tweaked palette and minor design improvements.
-- Tweaked **Flint and Steel**, simplified the flint design.
-- Tweaked **Pumpkin Pie**, tweaked outline and minor palette changes
-- Tweaked **Totem of undying**, changed design (inspired by the new villager spawn eggs added on vanilla 1.21.5).
+- Added **Wheat** new design and palette.
+- Added **Suspicious Stew** new design and palette.
+- Added **Sweet Berries** new design, tweaked palette.
+- Added **Snowball** new design and palette.
+- Added **Glowstone Dust** new design and palette.
+- Added **Armor Stand** new design, tweaked palette.
+- Added **Beef / Cooked Beef** new design and palette. 
+- Added **Porkchop / Cooked Porkchop** new design and palette.
+- Added **Cobweb** new design based on the Weaving mob effect.
+- Tweaked **Brewing Stand** refined the design, minor tweaks to the palette.
+- Tweaked **Kelp** tweaks to the palette and shadowing.
+- Tweaked **Slimeball** minor tweaks to the palette.
+- Tweaked **Glow Berries** minor tweaks to the palette.
+- Tweaked **Wooden Shovel** minor tweaks to the highlight for clearer design.
+- Tweaked **Beetroot** minor tweaks to the color palette.
+- Tweaked **Pumpkin Pie** minor palette tweaks.
+- Remade **Ender Eye** mayor design changes, tweaked palette for better matching vanilla colors.
+- Remade **Ender Pearl** mayor design changes, tweaked palette for better matching vanilla colors.
 
 ------
 
 ### Entities
 
-- Tweaked **Bell**, remade, again, with tweaks to the palette, fix incorrect faces being untextured etc.
+- Added **Squid** new design and palette
+- Tweaked **Shield** minor tweaks to the color palette.
+    
+### Misc
+- Added **Clouds** new clouds are slightly transparent, Creper face is a bit tweaked backported to previous versions. 
+
+### Mod compat
+- Added **FD Beef patty / mince beef** new design to match the new one.
+- Added **FD Cooking Pot Stray / Skillet Stray** new model with flat faces.
+- 
