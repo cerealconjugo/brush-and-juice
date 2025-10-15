@@ -1,20 +1,18 @@
 {
   "pack": {
     "pack_format": 15,
-    "supported_formats": {
-      "min_inclusive": 15,
-      "max_inclusive": 999
-    },
+    "min_format": 15,
+    "max_format": 999,
+    "supported_formats": [15, 999],
     "description": "By §6@CerealConJugo"
   },
   "overlays": {
     "entries": [
       {
         "directory": "16",
-        "formats": {
-          "min_inclusive": 16,
-          "max_inclusive": 999
-        }
+        "min_format": 16,
+        "max_format": 999,
+        "formats": [16, 999]
       }
     ]
   }
