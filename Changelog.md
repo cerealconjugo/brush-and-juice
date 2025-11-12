@@ -12,6 +12,7 @@
 ### Entities
 
 - Added **Squid** new design and palette
+- Added **Saddle** new design and palette.
 
 ---
 
