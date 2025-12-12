@@ -15,4 +15,4 @@ See the full license details in the [LICENSE](./LICENSE.txt) file.
 
 ## Contact
 
-For permissions, feedback, or questions, you can contact me via discord!: cerealconjugoo
+For permissions, feedback, or questions, you can reach me on GitHub! CerealConJugo
