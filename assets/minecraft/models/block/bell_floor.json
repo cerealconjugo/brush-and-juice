@@ -1,0 +1,51 @@
+{
+  "textures": {
+    "bar": "block/bell_wood",
+    "stone": "block/bell_stand",
+    "particle": "block/bell_bottom"
+  },
+  "elements": [
+    {
+      "from": [2, 12.85, 7],
+      "to": [14, 14.85, 9],
+      "faces": {
+        "north": { "uv": [1, 2, 13, 4], "texture": "#bar" },
+        "south": { "uv": [13, 2, 1, 4], "texture": "#bar" },
+        "up": { "uv": [13, 2, 1, 0], "texture": "#bar" },
+        "down": { "uv": [13, 9, 1, 7], "texture": "#bar" }
+      }
+    },
+    {
+      "from": [14, 0, 6],
+      "to": [16, 16, 10],
+      "faces": {
+        "north": { "uv": [6, 1, 4, 16], "texture": "#stone" },
+        "east": { "uv": [4, 1, 0, 16], "texture": "#stone" },
+        "south": { "uv": [4, 1, 6, 16], "texture": "#stone" },
+        "west": { "uv": [10, 1, 6, 16], "texture": "#stone" },
+        "up": { "uv": [12, 12, 14, 16], "texture": "#stone", "cullface": "up" },
+        "down": {
+          "uv": [12, 12, 10, 16],
+          "texture": "#stone",
+          "cullface": "down"
+        }
+      }
+    },
+    {
+      "from": [0, 0, 6],
+      "to": [2, 16, 10],
+      "faces": {
+        "north": { "uv": [4, 1, 6, 16], "texture": "#stone" },
+        "east": { "uv": [6, 1, 10, 16], "texture": "#stone" },
+        "south": { "uv": [6, 1, 4, 16], "texture": "#stone" },
+        "west": { "uv": [0, 1, 4, 16], "texture": "#stone" },
+        "up": { "uv": [12, 12, 14, 16], "texture": "#stone", "cullface": "up" },
+        "down": {
+          "uv": [10, 12, 12, 16],
+          "texture": "#stone",
+          "cullface": "down"
+        }
+      }
+    }
+  ]
+}

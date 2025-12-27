@@ -1,0 +1,30 @@
+{
+  "textures": {
+    "bar": "block/bell_wood",
+    "particle": "block/bell_bottom"
+  },
+  "elements": [
+    {
+      "from": [0, 13, 7],
+      "to": [16, 15, 9],
+      "faces": {
+        "north": { "uv": [0, 12, 16, 14], "texture": "#bar" },
+        "east": {
+          "uv": [15, 6, 13, 4],
+          "rotation": 90,
+          "texture": "#bar",
+          "cullface": "east"
+        },
+        "south": { "uv": [16, 12, 0, 14], "texture": "#bar" },
+        "west": {
+          "uv": [15, 4, 13, 6],
+          "rotation": 90,
+          "texture": "#bar",
+          "cullface": "west"
+        },
+        "up": { "uv": [0, 12, 16, 10], "texture": "#bar" },
+        "down": { "uv": [0, 16, 16, 14], "texture": "#bar" }
+      }
+    }
+  ]
+}
