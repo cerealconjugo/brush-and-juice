@@ -6,8 +6,7 @@ Mostly a personal pack, any sprite its subject to be changed, removed or remade.
 
 ## License
 
-Brush and Juice is protected under an **All Rights Reserved** license.
-See the full license details in the [LICENSE](./LICENSE.txt) file. Usage permissions are defined in the project descriptions on [Modrinth](https://modrinth.com/resourcepack/brush-and-juice) / [CurseForge](https://www.curseforge.com/minecraft/texture-packs/brush-and-juice).
+This projects is **All Rights Reserved**. Usage permissions are defined on the official [Modrinth](https://modrinth.com/resourcepack/brush-and-juice) / [CurseForge](https://www.curseforge.com/minecraft/texture-packs/brush-and-juice).
 
 ## Contact
 
