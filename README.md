@@ -7,7 +7,7 @@ Mostly a personal pack, any sprite its subject to be changed, removed or remade.
 ## License
 
 Brush and Juice is protected under an **All Rights Reserved** license.
-See the full license details in the [LICENSE](./LICENSE.txt) file.
+See the full license details in the [LICENSE](./LICENSE.txt) file. Usage permissions are defined in the project description on Modrinth / CurseForge.
 
 ## Contact
 
