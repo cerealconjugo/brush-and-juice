@@ -6,7 +6,7 @@ Mostly a personal pack, any sprite its subject to be changed, removed or remade.
 
 ## License
 
-This projects is **All Rights Reserved**. Usage permissions are defined on the official [Modrinth](https://modrinth.com/resourcepack/brush-and-juice) / [CurseForge](https://www.curseforge.com/minecraft/texture-packs/brush-and-juice).
+This projects is **All Rights Reserved**. Usage permissions are defined on the official [Modrinth](https://modrinth.com/resourcepack/brush-and-juice) / [CurseForge](https://www.curseforge.com/minecraft/texture-packs/brush-and-juice) pages.
 
 ## Contact
 
