@@ -1,3 +1,15 @@
-ARR License - Brush and Juice
-Copyright © [cerealconjugo], [2026]. All Rights Reserved.
-For permission requests or inquiries about this license, contact the author at: [lhumbertoceledon@gmail.com].
+All Rights Reserved
+
+Brush and Juice
+Copyright © 2026 cerealconjugo
+
+This project and all of its contents are copyrighted.
+All rights are reserved unless explicitly stated otherwise.
+
+Specific usage permissions are described on the official project pages
+Modrinth: https://modrinth.com/resourcepack/brush-and-juice
+Curseforge: https://www.curseforge.com/minecraft/texture-packs/brush-and-juice
+PlanetMinecraft: https://www.planetminecraft.com/texture-pack/brush-amp-juice/
+
+For permission or other requests, contact me:
+lhumbertoceledon@gmail.com
