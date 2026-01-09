@@ -1,4 +1,4 @@
-## **v4.0.0**
+## **v4.1.0**
 
 ---
 
@@ -6,12 +6,15 @@
 
 - Added **Copper Nugget** new design and palette.
 - Added **Emerald** new design and palette.
+- Added **Diamond** new design and palette.
+- Tweaked **Beef** minor tweaks to the palette and some changes to the design.
 - Tweaked **Stone Sword** new design, more inline with the Wooden Sword.
 - Tweaked **Cod** minor tweaks to the outline and palette.
 - Tweaked **Cooked Cod** minor tweaks to the outline and tweaked palette.
 - Tweaked **Salmon** minor tweaks to the outline.
 - Tweaked **Cooked Salmon** same as the salmon, just minor tweaks to the outline.
 - Tweaked **Glow Berries** minor tweaks to the design and palette.
+- Tweaked **Wheat** minor design changes.
 - Remade **Cooked Beef** new design and palette (this new design its somehow in between the vanilla sprite and the previous b&j one, I hope it fits better the game's art direction)
 - Remade **Cooked Porkchop** new design and palette (same as the cooked beef!! the new design tries to fit between vanilla and previous b&j)
 - Remade **Blaze Powder** new design and minor changes to the previous palette.
@@ -30,9 +33,7 @@
 
 ### Entities
 
--
-
----
+- ***
 
 ### Misc
 
@@ -60,9 +61,9 @@
 - Added Farmer's Delight **Copper Knife** now matches the current Copper Toolset palette and b&j knife design.
 - Updated Visuality **Bone Particle** now matches b&j palette.
 - Updated Visuality **Emerald** new design and palette to match b&j new Emerald.
- 
+
 ---
 
 ### Removed
 
-- 
+-
