@@ -61,6 +61,7 @@
 - Added Farmer's Delight **Copper Knife** now matches the current Copper Toolset palette and b&j knife design.
 - Updated Visuality **Bone Particle** now matches b&j palette.
 - Updated Visuality **Emerald** new design and palette to match b&j new Emerald.
+- Updated Buzzier Bees **Glazed Porkchop** now matches the current b&j porkchop texture.
 
 ---
 
