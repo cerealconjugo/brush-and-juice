@@ -1,8 +1,6 @@
 # brush-and-juice
 
-This pack contains tweaks to a certain vanilla sprites, using similar shapes and colors to the original ones. Its purpose is no other than let myself learn more about texture making.
-
-Mostly a personal pack, any sprite its subject to be changed, removed or remade. I used to make little changes here and there overtime to textures that ive already tweaked.
+Brush & Juice is a small resource pack that redesigns some Minecraft assets. It aims to stay close to the game’s art direction while taking a few creative liberties. A personal project developed throughout my pixel-art journey.
 
 ## License
 
