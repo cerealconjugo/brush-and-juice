@@ -7,31 +7,37 @@
     "description": "By §6@CerealConJugo"
   },
   "overlays": {
-    "entries": [
-      {
-        "directory": "16",
-        "min_format": 16,
-        "max_format": 999,
-        "formats": [16, 999]
-      },
-      {
-        "directory": "42",
-        "min_format": 42,
-        "max_format": 999,
-        "formats": [42, 999]
-      },
-      {
-        "directory": "46",
-        "min_format": 46,
-        "max_format": 999,
-        "formats": [46, 999]
-      },
-      {
-        "directory": "75",
-        "min_format": 75,
-        "max_format": 999,
-        "formats": [75, 999]
-      }
-    ]
-  }
+      "entries": [
+        {
+          "directory": "16",
+          "min_format": 16,
+          "max_format": 999,
+          "formats": [16, 999]
+        },
+        {
+          "directory": "42",
+          "min_format": 42,
+          "max_format": 999,
+          "formats": [42, 999]
+        },
+        {
+          "directory": "46",
+          "min_format": 46,
+          "max_format": 999,
+          "formats": [46, 999]
+        },
+        {
+          "directory": "75",
+          "min_format": 75,
+          "max_format": 999,
+          "formats": [75, 999]
+        },
+        {
+          "directory": "80",
+          "min_format": 80,
+          "max_format": 999,
+          "formats": [80, 999]
+        }
+      ]
+    }
 }
