@@ -1,23 +1,14 @@
-# IntelliJ IDEA
+# --- IDE Settings ---
 .idea/
-*.iws
 *.iml
-*.ipr
 out/
-# Mac System Files
-.DS_Store
-.AppleDouble
-.LSOverride
-Icon?
-._*
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
 
-.VolumeIcon.icns
-.com.apple.timemachine.donotpresent
-# Minecraft Specific
+# --- MacOS & Windows ---
+.DS_Store
+._*
+.Trashes
+Thumbs.db
+
+# --- Other ---
 *.zip
 backups/
