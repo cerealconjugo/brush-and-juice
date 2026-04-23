@@ -1,0 +1,61 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made by CerealConJugo",
+	"textures": {
+		"particle": "block/tripwire_hook",
+		"hook": "block/tripwire_hook",
+		"tripwire": "block/tripwire"
+	},
+	"elements": [
+		{
+			"name": "base",
+			"from": [6, 1, 14],
+			"to": [10, 9, 16],
+			"faces": {
+				"north": {"uv": [0, 2, 4, 10], "texture": "#hook"},
+				"east": {"uv": [6, 2, 4, 10], "texture": "#hook"},
+				"south": {"uv": [1, 4, 2, 5], "texture": "#hook", "cullface": "south"},
+				"west": {"uv": [4, 2, 6, 10], "texture": "#hook"},
+				"up": {"uv": [4, 2, 0, 0], "texture": "#hook"},
+				"down": {"uv": [0, 12, 4, 10], "texture": "#hook"}
+			}
+		},
+		{
+			"name": "arm",
+			"from": [7, 5, 10],
+			"to": [9, 7, 15],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-0.25, 0, 0]},
+			"faces": {
+				"north": {"uv": [3, 4, 5, 6], "texture": "#hook"},
+				"east": {"uv": [11, 7, 6, 9], "texture": "#hook"},
+				"west": {"uv": [6, 7, 11, 9], "texture": "#hook"},
+				"up": {"uv": [6, 6, 11, 8], "rotation": 90, "texture": "#hook"},
+				"down": {"uv": [11, 10, 6, 8], "rotation": 90, "texture": "#hook"}
+			}
+		},
+		{
+			"name": "hook",
+			"from": [6, 6, 6],
+			"to": [10, 7, 10],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 6, 10]},
+			"faces": {
+				"north": {"uv": [6, 5, 10, 6], "texture": "#hook"},
+				"east": {"uv": [6, 5, 10, 6], "texture": "#hook"},
+				"south": {"uv": [6, 1, 10, 0], "texture": "#hook"},
+				"west": {"uv": [6, 5, 10, 6], "texture": "#hook"},
+				"up": {"uv": [14, 5, 10, 1], "texture": "#hook"},
+				"down": {"uv": [6, 5, 10, 1], "texture": "#hook"}
+			}
+		},
+		{
+			"name": "string",
+			"from": [7, 1.5, 0],
+			"to": [9, 1.5, 8],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 1.5, 0], "rescale": true},
+			"faces": {
+				"up": {"uv": [2, 1, 4, 9], "texture": "#tripwire"},
+				"down": {"uv": [2, 9, 4, 1], "texture": "#tripwire"}
+			}
+		}
+	]
+}

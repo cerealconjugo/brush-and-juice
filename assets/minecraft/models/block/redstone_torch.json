@@ -1,6 +1,4 @@
 {
-  "_comment": "This is the vanilla model.",
-  
   "parent": "minecraft:block/template_redstone_torch",
   "textures": {
     "torch": "minecraft:block/redstone_torch"

@@ -1,14 +1,15 @@
 {
-  "comment._": "This model is from the Create mod itself, just modified for compat.",
+  "format_version": "1.21.11",
+  "credit": "Made by CerealConJugo",
   "parent": "block/block",
+  "ambientocclusion": false,
   "textures": {
-    "top": "create:block/diodes/powered_toggle_latch/idle",
     "5": "create:block/diodes/powered_toggle_latch/powered_powering",
-    "torch": "minecraft:block/redstone_torch",
-    "smooth_stone": "minecraft:block/smooth_stone",
-    "particle": "minecraft:block/smooth_stone",
-    "base": "minecraft:block/cobblestone",
-    "lever": "create:block/lever"
+    "6": "block/lever",
+    "top": "create:block/diodes/powered_toggle_latch/idle",
+    "torch": "block/redstone_torch",
+    "particle": "block/smooth_stone",
+    "smooth_stone": "block/smooth_stone"
   },
   "elements": [
     {
@@ -38,63 +39,61 @@
       }
     },
     {
-      "name": "Front Torch",
-      "from": [6, 2, 1],
-      "to": [10, 8, 3],
-      "rotation": { "angle": 0, "axis": "y", "origin": [8, 8, 7] },
-      "faces": {
-        "north": { "uv": [6, 5, 10, 11], "texture": "#torch" },
-        "south": { "uv": [6, 5, 10, 11], "texture": "#torch" }
-      }
-    },
-    {
-      "name": "Front Torch",
-      "from": [7, 2, 0],
-      "to": [9, 8, 4],
-      "rotation": { "angle": 0, "axis": "y", "origin": [8, 8, 7] },
-      "faces": {
-        "east": { "uv": [6, 5, 10, 11], "texture": "#torch" },
-        "west": { "uv": [6, 5, 10, 11], "texture": "#torch" }
-      }
-    },
-    {
-      "name": "Front Torch Top",
-      "from": [7, 6, 1],
-      "to": [9, 7, 3],
-      "rotation": { "angle": 0, "axis": "y", "origin": [8, 8, 7] },
-      "faces": {
-        "up": { "uv": [7, 6, 9, 8], "texture": "#torch" }
-      }
-    },
-    {
+      "name": "base",
       "from": [4, 2, 5],
       "to": [12, 5, 11],
-      "rotation": { "angle": 0, "axis": "y", "origin": [8, 9, 8] },
       "faces": {
-        "north": { "uv": [4, 0, 12, 3], "texture": "#base" },
-        "east": { "uv": [5, 0, 11, 3], "texture": "#base" },
-        "south": { "uv": [4, 0, 12, 3], "texture": "#base" },
-        "west": { "uv": [5, 0, 11, 3], "texture": "#base" },
-        "up": { "uv": [5, 4, 11, 12], "rotation": 90, "texture": "#base" },
+        "north": { "uv": [5, 16, 2, 8], "rotation": 90, "texture": "#6" },
+        "east": { "uv": [5, 11, 11, 8], "texture": "#6" },
+        "south": { "uv": [5, 16, 2, 8], "rotation": 90, "texture": "#6" },
+        "west": { "uv": [5, 11, 11, 8], "texture": "#6" },
+        "up": { "uv": [0, 0, 6, 8], "rotation": 90, "texture": "#6" },
         "down": {
-          "uv": [5, 4, 11, 12],
+          "uv": [6, 0, 12, 8],
           "rotation": 270,
-          "texture": "#base",
+          "texture": "#6",
           "cullface": "down"
         }
       }
     },
     {
-      "from": [7, 3, 7],
-      "to": [9, 13, 9],
-      "neoforge_data": { "calculate_normals": true },
-      "rotation": { "angle": 45, "axis": "z", "origin": [8, 3, 8] },
+      "name": "lever",
+      "from": [3.81802, 5.14645, 7],
+      "to": [5.81802, 13.14645, 9],
+      "rotation": { "angle": 45, "axis": "z", "origin": [9, 9.5, 8] },
       "faces": {
-        "north": { "uv": [7, 6, 9, 16], "texture": "#lever" },
-        "east": { "uv": [7, 6, 9, 16], "texture": "#lever" },
-        "south": { "uv": [7, 6, 9, 16], "texture": "#lever" },
-        "west": { "uv": [7, 6, 9, 16], "texture": "#lever" },
-        "up": { "uv": [7, 6, 9, 8], "rotation": 90, "texture": "#lever" }
+        "north": { "uv": [0, 8, 2, 16], "texture": "#6" },
+        "east": { "uv": [0, 8, 2, 16], "texture": "#6" },
+        "south": { "uv": [0, 8, 2, 16], "texture": "#6" },
+        "west": { "uv": [0, 8, 2, 16], "texture": "#6" },
+        "up": { "uv": [7, 8, 9, 10], "rotation": 90, "texture": "#6" }
+      }
+    },
+    {
+      "name": "torch",
+      "from": [7, 2, 1],
+      "to": [9, 7, 3],
+      "shade": false,
+      "faces": {
+        "north": { "uv": [7, 6, 9, 11], "texture": "#torch" },
+        "east": { "uv": [7, 6, 9, 11], "texture": "#torch" },
+        "south": { "uv": [7, 6, 9, 11], "texture": "#torch" },
+        "west": { "uv": [7, 6, 9, 11], "texture": "#torch" },
+        "up": { "uv": [7, 6, 9, 8], "texture": "#torch" }
+      }
+    },
+    {
+      "name": "glow",
+      "from": [9.5, 7.5, 3.5],
+      "to": [6.5, 4.5, 0.5],
+      "shade": false,
+      "faces": {
+        "north": { "uv": [6, 5, 7, 6], "texture": "#torch" },
+        "east": { "uv": [6, 5, 7, 6], "texture": "#torch" },
+        "south": { "uv": [6, 5, 7, 6], "texture": "#torch" },
+        "west": { "uv": [6, 5, 7, 6], "texture": "#torch" },
+        "up": { "uv": [6, 5, 7, 6], "texture": "#torch" },
+        "down": { "uv": [6, 5, 7, 6], "texture": "#torch" }
       }
     }
   ],
@@ -105,7 +104,7 @@
       "scale": [0.625, 0.625, 0.625]
     },
     "fixed": {
-      "rotation": [270, 0, 0],
+      "rotation": [-90, 0, 0],
       "translation": [0, 0, -5],
       "scale": [0.5, 0.5, 0.5]
     }

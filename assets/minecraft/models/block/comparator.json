@@ -1,5 +1,5 @@
 {
-  "_comment": "This is the vanilla model.",
+  "_comment": "This is the vanilla model backported.",
 
   "ambientocclusion": false,
   "textures": {

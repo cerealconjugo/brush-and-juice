@@ -21,9 +21,9 @@
 		},
 		{
 			"name": "stick",
-			"from": [7, 3.2, 9.6],
-			"to": [9, 11.2, 11.6],
-			"rotation": {"angle": -45, "axis": "x", "origin": [8, 0, 10.6]},
+			"from": [7, 1.10355, 7.44975],
+			"to": [9, 9.10355, 9.44975],
+			"rotation": {"angle": -45, "axis": "x", "origin": [8, 2.1, 8.5]},
 			"faces": {
 				"north": {"uv": [0, 8, 2, 16], "texture": "#lever"},
 				"east": {"uv": [2, 8, 0, 16], "texture": "#lever"},
@@ -45,13 +45,13 @@
 			"scale": [0.375, 0.375, 0.375]
 		},
 		"firstperson_righthand": {
-			"rotation": [0, 40, 0],
-			"translation": [0, 2.75, 0],
+			"rotation": [0, 36, 0],
+			"translation": [0, 3.75, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"firstperson_lefthand": {
-			"rotation": [0, 40, 0],
-			"translation": [0, 2.75, 0],
+			"rotation": [0, 36, 0],
+			"translation": [0, 3.75, 0],
 			"scale": [0.4, 0.4, 0.4]
 		},
 		"ground": {
@@ -60,7 +60,7 @@
 		},
 		"gui": {
 			"rotation": [30, -45, 0],
-			"translation": [0, 2, 0],
+			"translation": [0, 3, 0],
 			"scale": [0.85, 0.85, 0.85]
 		},
 		"fixed": {
