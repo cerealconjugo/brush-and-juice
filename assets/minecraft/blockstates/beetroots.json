@@ -1,0 +1,96 @@
+{
+  "variants": {
+    "age=0": [
+      {
+        "model": "minecraft:block/beetroots_stage0",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/beetroots_stage0",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage0",
+        "y": 180,
+        "weight": 2
+      }
+    ],
+    "age=1": [
+      {
+        "model": "minecraft:block/beetroots_stage1",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/beetroots_stage1",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage1",
+        "y": 180,
+        "weight": 2
+      }
+    ],
+    "age=2": [
+      {
+        "model": "minecraft:block/beetroots_stage2",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/beetroots_stage2",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage2",
+        "y": 180,
+        "weight": 2
+      }
+    ],
+    "age=3": [
+      {
+        "model": "minecraft:block/beetroots_stage3",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3_a0",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3_a0",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3_a0",
+        "y": 180,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3_a1",
+        "weight": 4
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3_a1",
+        "y": 90,
+        "weight": 2
+      },
+      {
+        "model": "minecraft:block/beetroots_stage3_a1",
+        "y": 180,
+        "weight": 2
+      }
+    ]
+  }
+}
