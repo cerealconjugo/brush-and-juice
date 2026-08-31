@@ -2,7 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made by CerealConJugo",
 	"textures": {
-		"0": "block/tripwire",
+		"body": "block/tripwire",
 		"particle": "block/tripwire"
 	},
 	"elements": [
@@ -11,8 +11,8 @@
 			"to": [9, 1.5, 16],
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 0]},
 			"faces": {
-				"up": {"uv": [0, 0, 2, 16], "texture": "#0"},
-				"down": {"uv": [0, 16, 2, 0], "texture": "#0"}
+				"up": {"uv": [0, 0, 2, 16], "texture": "#body"},
+				"down": {"uv": [0, 16, 2, 0], "texture": "#body"}
 			}
 		}
 	]

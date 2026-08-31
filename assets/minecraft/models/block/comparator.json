@@ -1,6 +1,5 @@
 {
-  "_comment": "This is the vanilla model backported.",
-
+  "credit": "Made by CerealConJugo",
   "ambientocclusion": false,
   "textures": {
     "particle": "block/comparator",

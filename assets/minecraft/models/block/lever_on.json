@@ -1,8 +1,9 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made by CerealConJugo",
+	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/lever",
+		"particle": "block/cobblestone",
 		"lever": "block/lever"
 	},
 	"elements": [

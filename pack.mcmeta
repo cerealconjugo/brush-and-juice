@@ -4,7 +4,7 @@
     "min_format": 15,
     "max_format": 999,
     "supported_formats": [15, 999],
-    "description": "§7By§r §6CerealConJugo§r\n§8v7.0.0"
+    "description": "§7By§r §6CerealConJugo§r\n§8v7.1.1"
   },
   "overlays": {
     "entries": [

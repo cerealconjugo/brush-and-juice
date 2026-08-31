@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/snowball",
+    "particle": "minecraft:item/particle/snowball_particle"
+  }
+}
