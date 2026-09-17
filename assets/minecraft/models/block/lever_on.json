@@ -3,14 +3,14 @@
 	"credit": "Made by CerealConJugo",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/cobblestone",
-		"lever": "block/lever"
+		"lever": "block/lever",
+		"particle": "block/cobblestone"
 	},
 	"elements": [
 		{
 			"name": "base",
-			"from": [5, -0.02, 4],
-			"to": [11, 2.98, 12],
+			"from": [5, 0, 4],
+			"to": [11, 3, 12],
 			"faces": {
 				"north": {"uv": [5, 11, 11, 8], "texture": "#lever"},
 				"east": {"uv": [5, 16, 2, 8], "rotation": 90, "texture": "#lever"},
@@ -22,9 +22,9 @@
 		},
 		{
 			"name": "stick",
-			"from": [7, 1.1036, 6.4],
-			"to": [9, 9.1036, 8.4],
-			"rotation": {"angle": 45, "axis": "x", "origin": [8, 2, 7.5]},
+			"from": [7, 0.9, 5.3],
+			"to": [9, 8.9, 7.3],
+			"rotation": {"angle": 45, "axis": "x", "origin": [8, 0.9, 6.3]},
 			"faces": {
 				"north": {"uv": [0, 8, 2, 16], "texture": "#lever"},
 				"east": {"uv": [2, 8, 0, 16], "texture": "#lever"},

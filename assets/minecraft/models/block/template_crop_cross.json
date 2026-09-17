@@ -1,6 +1,7 @@
 {
 	"format_version": "1.21.11",
 	"credit": "Made by CerealConJugo",
+	"ambientocclusion": false,
 	"textures": {
 		"particle": "#crop"
 	},
@@ -9,6 +10,7 @@
 			"from": [6.75, -1, 0.8],
 			"to": [6.75, 15, 15.2],
 			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [6.75, 8, 8], "rescale": true},
 			"faces": {
 				"east": {"uv": [0, 0, 16, 16], "texture": "#crop"},
@@ -19,6 +21,7 @@
 			"from": [-0.45, -1, 8],
 			"to": [13.95, 15, 8],
 			"shade": false,
+			"shade_direction_override": "up",
 			"rotation": {"angle": 45, "axis": "y", "origin": [6.75, 8, 8], "rescale": true},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#crop"},

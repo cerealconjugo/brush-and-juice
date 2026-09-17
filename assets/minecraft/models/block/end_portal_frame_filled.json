@@ -48,7 +48,6 @@
       "name": "eye",
       "from": [4, 13, 4],
       "to": [12, 16, 12],
-      "shade": false,
       "faces": {
         "north": { "uv": [4, 0, 12, 3], "texture": "#eye" },
         "east": { "uv": [4, 0, 12, 3], "texture": "#eye" },
@@ -62,6 +61,7 @@
       "from": [12.5, 16.5, 12.5],
       "to": [3.5, 13.01, 3.5],
       "shade": false,
+      "shade_direction_override": "up",
       "faces": {
         "north": { "uv": [9, 10, 10, 11], "texture": "#eye" },
         "east": { "uv": [9, 10, 10, 11], "texture": "#eye" },

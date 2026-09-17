@@ -4,7 +4,7 @@
     "min_format": 15,
     "max_format": 999,
     "supported_formats": [15, 999],
-    "description": "§7By§r §6CerealConJugo§r\n§8v7.1.1"
+    "description": "§7By§r §6CerealConJugo§r\n§8v7.2.1"
   },
   "overlays": {
     "entries": [
@@ -37,6 +37,12 @@
         "min_format": 84,
         "max_format": 999,
         "formats": [84, 999]
+      },
+      {
+        "directory": "97",
+        "min_format": 97,
+        "max_format": 999,
+        "formats": [97, 999]
       }
     ]
   }
