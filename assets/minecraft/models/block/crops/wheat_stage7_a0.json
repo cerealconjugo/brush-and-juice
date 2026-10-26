@@ -1,0 +1,7 @@
+{
+	"parent": "minecraft:block/templates/template_crop_tall",
+	"textures": {
+		"crop": "minecraft:block/crops/wheat_stage7_a0",
+		"crop_bottom": "minecraft:block/crops/wheat_bottom3"
+	}
+}

@@ -1,8 +1,0 @@
-{
-  "parent": "minecraft:block/template_crop_cross_3",
-  "textures": {
-    "cross_1": "minecraft:block/carrots_stage1",
-    "cross_2": "minecraft:block/carrots_stage1",
-    "cross_3": "minecraft:block/carrots_stage1"
-  }
-}

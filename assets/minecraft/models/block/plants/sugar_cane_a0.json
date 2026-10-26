@@ -1,0 +1,9 @@
+{
+	"parent": "minecraft:block/templates/template_cane_4cross",
+	"textures": {
+		"cross_1": "minecraft:block/plants/sugar_cane3",
+		"cross_2": "minecraft:block/plants/sugar_cane2",
+		"cross_3": "minecraft:block/plants/sugar_cane1",
+		"cross_4": "minecraft:block/plants/sugar_cane0"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"parent": "minecraft:block/templates/template_crop_2cross",
+	"textures": {
+		"cross_1": "minecraft:block/crops/beetroots_stage3",
+		"cross_2": "minecraft:block/crops/beetroots_stage1",
+		"cross_3": "minecraft:block/crops/beetroots_stage0"
+	}
+}

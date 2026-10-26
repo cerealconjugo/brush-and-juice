@@ -1,6 +1,6 @@
 {
-    "parent": "minecraft:block/template_item_frame",
-    "textures": {
-    "body": "minecraft:block/glow_item_frame"
-    }
+	"parent": "minecraft:block/templates/template_item_frame",
+	"textures": {
+		"body": "minecraft:block/glow_item_frame"
+	}
 }

@@ -1,14 +1,22 @@
-# --- IDE Settings ---
-.idea/
-*.iml
-out/
-
-# --- MacOS & Windows ---
+# --- OS junk ---
 .DS_Store
 ._*
+.AppleDouble
 .Trashes
+.Spotlight-V100
+.fseventsd
 Thumbs.db
+Desktop.ini
 
-# --- Other ---
+# --- Editors ---
+.idea/
+*.iml
+.vscode/
+.zed/
+*.swp
+*~
+
+# --- Packaging output ---
 *.zip
-backups/
+/out/
+/backups/

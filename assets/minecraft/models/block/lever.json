@@ -3,8 +3,8 @@
 	"credit": "Made by CerealConJugo",
 	"ambientocclusion": false,
 	"textures": {
-		"lever": "block/lever",
-		"particle": "block/cobblestone"
+		"lever": "minecraft:block/lever",
+		"particle": "minecraft:block/cobblestone"
 	},
 	"elements": [
 		{

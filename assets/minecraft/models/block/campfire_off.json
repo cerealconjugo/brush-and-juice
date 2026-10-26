@@ -1,6 +1,6 @@
 {
-  "parent": "minecraft:block/template_campfire_log_off",
-  "textures": {
-    "log": "minecraft:block/campfire_log"
-  }
+	"parent": "minecraft:block/templates/template_campfire_log_off",
+	"textures": {
+		"log": "minecraft:block/campfire_log"
+	}
 }

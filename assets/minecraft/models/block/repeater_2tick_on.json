@@ -3,38 +3,22 @@
   "credit": "Made by CerealConJugo",
   "ambientocclusion": false,
   "textures": {
-    "slab": "block/smooth_stone",
-    "particle": "block/repeater_on",
-    "top": "block/repeater_on",
-    "lit": "block/redstone_torch"
+    "slab": "minecraft:block/smooth_stone",
+    "particle": "minecraft:block/repeater_on",
+    "top": "minecraft:block/repeater_on",
+    "lit": "minecraft:block/redstone_torch"
   },
   "elements": [
     {
       "from": [0, 0, 0],
       "to": [16, 2, 16],
       "faces": {
-        "north": {
-          "uv": [0, 14, 16, 16],
-          "texture": "#slab",
-          "cullface": "north"
-        },
-        "east": {
-          "uv": [0, 14, 16, 16],
-          "texture": "#slab",
-          "cullface": "east"
-        },
-        "south": {
-          "uv": [0, 14, 16, 16],
-          "texture": "#slab",
-          "cullface": "south"
-        },
-        "west": {
-          "uv": [0, 14, 16, 16],
-          "texture": "#slab",
-          "cullface": "west"
-        },
-        "up": { "uv": [0, 0, 16, 16], "texture": "#top" },
-        "down": { "uv": [0, 0, 16, 16], "texture": "#slab", "cullface": "down" }
+        "north": {"uv": [0, 14, 16, 16],"texture": "#slab","cullface": "north"},
+        "east": {"uv": [0, 14, 16, 16],"texture": "#slab","cullface": "east"},
+        "south": {"uv": [0, 14, 16, 16],"texture": "#slab","cullface": "south"},
+        "west": {"uv": [0, 14, 16, 16],"texture": "#slab","cullface": "west"},
+        "up": {"uv": [0, 0, 16, 16],"texture": "#top"},
+        "down": {"uv": [0, 0, 16, 16],"texture": "#slab","cullface": "down"}
       }
     },
     {

@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/templates/template_crop_1cross",
+	"textures": {
+		"crop": "minecraft:block/crops/potatoes_stage1"
+	}
+}

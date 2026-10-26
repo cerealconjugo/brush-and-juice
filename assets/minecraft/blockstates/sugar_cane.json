@@ -1,0 +1,14 @@
+{
+	"variants": {
+		"": [
+			{
+				"model": "minecraft:block/plants/sugar_cane",
+				"weight": 1
+			},
+			{
+				"model": "minecraft:block/plants/sugar_cane_a0",
+				"weight": 1
+			}
+		]
+	}
+}

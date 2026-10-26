@@ -3,9 +3,9 @@
 	"credit": "Made by CerealConJugo",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "block/flower_pot",
-		"body": "block/flower_pot",
-		"dirt": "block/farmland_moist_side"
+		"particle": "minecraft:block/flower_pot",
+		"body": "minecraft:block/flower_pot",
+		"dirt": "minecraft:block/farmland_moist_side"
 	},
 	"elements": [
 		{

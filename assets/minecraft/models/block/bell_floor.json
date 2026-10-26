@@ -2,9 +2,9 @@
 	"format_version": "1.21.11",
 	"credit": "Made by CerealConJugo",
 	"textures": {
-		"bar": "block/bell_wood",
-		"stand": "block/bell_stand",
-		"particle": "block/bell_bottom"
+		"bar": "minecraft:block/bell_wood",
+		"stand": "minecraft:block/bell_stand",
+		"particle": "minecraft:block/bell_bottom"
 	},
 	"elements": [
 		{
