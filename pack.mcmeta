@@ -1,49 +1,43 @@
 {
-  "pack": {
-    "pack_format": 15,
-    "min_format": 15,
-    "max_format": 999,
-    "supported_formats": [15, 999],
-    "description": "§7By§r §6CerealConJugo§r\n§8v7.2.1"
-  },
-  "overlays": {
-    "entries": [
-      {
-        "directory": "16",
-        "min_format": 16,
-        "max_format": 999,
-        "formats": [16, 999]
-      },
-      {
-        "directory": "42",
-        "min_format": 42,
-        "max_format": 999,
-        "formats": [42, 999]
-      },
-      {
-        "directory": "46",
-        "min_format": 46,
-        "max_format": 999,
-        "formats": [46, 999]
-      },
-      {
-        "directory": "75",
-        "min_format": 75,
-        "max_format": 999,
-        "formats": [75, 999]
-      },
-      {
-        "directory": "84",
-        "min_format": 84,
-        "max_format": 999,
-        "formats": [84, 999]
-      },
-      {
-        "directory": "97",
-        "min_format": 97,
-        "max_format": 999,
-        "formats": [97, 999]
-      }
-    ]
-  }
+	"pack": {
+		"pack_format": 15,
+		"min_format": 15,
+		"max_format": 999,
+		"supported_formats": [15, 999],
+		"description": "§7By§r §6CerealConJugo§r\n§8v7.3.0"
+	},
+	"overlays": {
+		"entries": [
+			{
+				"directory": "18",
+				"min_format": 18,
+				"max_format": 999,
+				"formats": [18, 999]
+			},
+			{
+				"directory": "42",
+				"min_format": 42,
+				"max_format": 999,
+				"formats": [42, 999]
+			},
+			{
+				"directory": "46",
+				"min_format": 46,
+				"max_format": 999,
+				"formats": [46, 999]
+			},
+			{
+				"directory": "75",
+				"min_format": 75,
+				"max_format": 999,
+				"formats": [75, 999]
+			},
+			{
+				"directory": "84",
+				"min_format": 84,
+				"max_format": 999,
+				"formats": [84, 999]
+			}
+		]
+	}
 }

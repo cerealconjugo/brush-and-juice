@@ -1,0 +1,10 @@
+{
+	"parent": "minecraft:block/templates/template_cane_4cross",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"cross1": "nomansland:block/plants/cut_sugar_cane1",
+		"cross2": "nomansland:block/plants/cut_sugar_cane2",
+		"cross3": "nomansland:block/plants/cut_sugar_cane3",
+		"cross4": "nomansland:block/plants/cut_sugar_cane4"
+	}
+}

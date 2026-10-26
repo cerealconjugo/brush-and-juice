@@ -3,7 +3,7 @@
 	"credit": "Made by CerealConJugo",
 	"parent": "builtin/entity",
 	"textures": {
-		"particle": "block/soul_sand"
+		"particle": "minecraft:block/soul_sand"
 	},
 	"display": {
 		"thirdperson_righthand": {

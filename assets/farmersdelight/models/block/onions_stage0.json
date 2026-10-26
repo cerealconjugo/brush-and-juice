@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/template_crop_cross_3",
+  "parent": "minecraft:block/templates/template_crop_3cross",
   "render_type": "minecraft:cutout",
   "textures": {
     "cross_1": "farmersdelight:block/onions_stage0",
