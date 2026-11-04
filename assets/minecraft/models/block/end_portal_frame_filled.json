@@ -1,55 +1,53 @@
 {
-  "format_version": "1.21.11",
-  "credit": "Made by CerealConJugo",
-  "ambientocclusion": false,
-  "textures": {
-    "bottom": "minecraft:block/end_stone",
-    "top": "minecraft:block/end_portal_frame_top",
-    "particle": "minecraft:block/end_portal_frame_side",
-    "side": "minecraft:block/end_portal_frame_side",
-    "eye": "minecraft:block/end_portal_frame_eye"
-  },
-  "elements": [
-    {
-      "name": "frame",
-      "from": [0, 0, 0],
-      "to": [16, 13, 16],
-      "shade": true,
-      "faces": {
-        "north": {"uv": [0, 3, 16, 16],"texture": "#side","cullface": "north"},
-        "east": {"uv": [0, 3, 16, 16],"texture": "#side","cullface": "east"},
-        "south": {"uv": [0, 3, 16, 16],"texture": "#side","cullface": "south"},
-        "west": {"uv": [0, 3, 16, 16],"texture": "#side","cullface": "west"},
-        "up": {"uv": [0, 0, 16, 16],"texture": "#top"},
-        "down": {"uv": [0, 0, 16, 16],"texture": "#bottom","cullface": "down"}
-      }
-    },
-    {
-      "name": "eye",
-      "from": [4, 13, 4],
-      "to": [12, 16, 12],
-      "faces": {
-        "north": { "uv": [4, 0, 12, 3], "texture": "#eye" },
-        "east": { "uv": [4, 0, 12, 3], "texture": "#eye" },
-        "south": { "uv": [4, 0, 12, 3], "texture": "#eye" },
-        "west": { "uv": [4, 0, 12, 3], "texture": "#eye" },
-        "up": { "uv": [4, 4, 12, 12], "texture": "#eye", "cullface": "up" }
-      }
-    },
-    {
-      "name": "glow",
-      "from": [12.5, 16.5, 12.5],
-      "to": [3.5, 13.01, 3.5],
-      "shade": false,
-      "shade_direction_override": "up",
-      "faces": {
-        "north": { "uv": [9, 10, 10, 11], "texture": "#eye" },
-        "east": { "uv": [9, 10, 10, 11], "texture": "#eye" },
-        "south": { "uv": [9, 10, 10, 11], "texture": "#eye" },
-        "west": { "uv": [9, 10, 10, 11], "texture": "#eye" },
-        "up": { "uv": [9, 10, 10, 11], "texture": "#eye" },
-        "down": { "uv": [9, 10, 10, 11], "texture": "#eye" }
-      }
-    }
-  ]
+	"format_version": "1.21.11",
+	"credit": "Made by CerealConJugo",
+	"textures": {
+		"bottom": "minecraft:block/end_stone",
+		"top": "minecraft:block/end_portal_frame_top",
+		"side": "minecraft:block/end_portal_frame_side",
+		"eye": "minecraft:block/end_portal_frame_eye",
+		"particle": "#side"
+	},
+	"elements": [
+		{
+			"name": "frame",
+			"from": [0, 0, 0],
+			"to": [16, 13, 16],
+			"faces": {
+				"north": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "north"},
+				"east": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "east"},
+				"south": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "south"},
+				"west": {"uv": [0, 3, 16, 16], "texture": "#side", "cullface": "west"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#top"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#bottom", "cullface": "down"}
+			}
+		},
+		{
+			"name": "eye",
+			"from": [4, 13, 4],
+			"to": [12, 16, 12],
+			"faces": {
+				"north": {"uv": [4, 0, 12, 3], "texture": "#eye"},
+				"east": {"uv": [4, 0, 12, 3], "texture": "#eye"},
+				"south": {"uv": [4, 0, 12, 3], "texture": "#eye"},
+				"west": {"uv": [4, 0, 12, 3], "texture": "#eye"},
+				"up": {"uv": [4, 4, 12, 12], "texture": "#eye", "cullface": "up"}
+			}
+		},
+		{
+			"name": "glow",
+			"from": [12.5, 16.5, 12.5],
+			"to": [3.5, 13.01, 3.5],
+			"shade": false,
+			"shade_direction_override": "up",
+			"faces": {
+				"north": {"uv": [9, 10, 10, 11], "texture": "#eye"},
+				"east": {"uv": [9, 10, 10, 11], "texture": "#eye"},
+				"south": {"uv": [9, 10, 10, 11], "texture": "#eye"},
+				"west": {"uv": [9, 10, 10, 11], "texture": "#eye"},
+				"up": {"uv": [9, 10, 10, 11], "texture": "#eye"},
+				"down": {"uv": [9, 10, 10, 11], "texture": "#eye"}
+			}
+		}
+	]
 }

@@ -3,7 +3,7 @@
 	"credit": "Made by CerealConJugo",
 	"textures": {
 		"body": "minecraft:block/tripwire_hook",
-		"particle": "minecraft:block/tripwire_hook"
+		"particle": "minecraft:block/crafting_table_bottom"
 	},
 	"elements": [
 		{
@@ -13,7 +13,7 @@
 			"faces": {
 				"north": {"uv": [0, 2, 4, 10], "texture": "#body"},
 				"east": {"uv": [6, 2, 4, 10], "texture": "#body"},
-				"south": {"uv": [1, 4, 2, 5], "texture": "#body"},
+				"south": {"uv": [1, 4, 2, 5], "texture": "#body", "cullface": "south"},
 				"west": {"uv": [4, 2, 6, 10], "texture": "#body"},
 				"up": {"uv": [4, 2, 0, 0], "texture": "#body"},
 				"down": {"uv": [0, 12, 4, 10], "texture": "#body"}

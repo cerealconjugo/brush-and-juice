@@ -6,6 +6,26 @@
 		"particle": "minecraft:block/soul_sand"
 	},
 	"display": {
+		"gui": {
+			"rotation": [30, 45, 0],
+			"translation": [0, 3, 0],
+			"scale": [1, 1, 1]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"translation": [0, 4, 0],
+			"scale": [1, 1, 1]
+		},
+		"on_shelf": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 8, 0],
+			"scale": [2, 2, 2]
+		},
+		"ground": {
+			"rotation": [0, 0, 0],
+			"translation": [0, 3, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
 		"thirdperson_righthand": {
 			"rotation": [45, 45, 0],
 			"translation": [0, 3, 0],
@@ -20,21 +40,6 @@
 			"rotation": [-40, -50, -30],
 			"translation": [1.5, 4.25, -0.75],
 			"scale": [0.55, 0.55, 0.55]
-		},
-		"ground": {
-			"translation": [0, 2.75, 0],
-			"scale": [0.45, 0.45, 0.45]
-		},
-		"gui": {
-			"rotation": [30, 45, 0],
-			"translation": [0, 3, 0]
-		},
-		"fixed": {
-			"rotation": [0, -180, 0],
-			"translation": [0, 4, 0]
-		},
-		"on_shelf": {
-			"scale": [1.05, 1.05, 1.05]
 		}
 	}
 }

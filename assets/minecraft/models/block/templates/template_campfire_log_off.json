@@ -4,25 +4,15 @@
 	"parent": "minecraft:block/block",
 	"display": {
 		"head": {
-			"translation": [0, 10.5, 0]
+			"rotation": [0, 0, 0],
+			"translation": [0, 10.5, 0],
+			"scale": [1, 1, 1]
 		}
 	},
 	"textures": {
 		"particle": "#log"
 	},
 	"elements": [
-		{
-			"from": [1, 0, 0],
-			"to": [5, 4, 16],
-			"faces": {
-				"north": {"uv": [0, 4, 4, 8], "texture": "#log", "cullface": "north"},
-				"east": {"uv": [0, 1, 16, 5], "texture": "#log"},
-				"south": {"uv": [0, 4, 4, 8], "texture": "#log", "cullface": "south"},
-				"west": {"uv": [16, 0, 0, 4], "texture": "#log"},
-				"up": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#log"},
-				"down": {"uv": [0, 0, 16, 4], "rotation": 90, "texture": "#log", "cullface": "down"}
-			}
-		},
 		{
 			"from": [1, 0, 0],
 			"to": [5, 4, 16],

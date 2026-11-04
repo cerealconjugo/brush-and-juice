@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/templates/template_crop_short",
+	"parent": "minecraft:block/templates/template_crop_wheat",
 	"textures": {
 		"crop": "minecraft:block/crops/wheat_stage5",
 		"crop_bottom": "minecraft:block/crops/wheat_bottom2"

@@ -2,8 +2,8 @@
 	"format_version": "1.21.11",
 	"credit": "Made by CerealConJugo",
 	"textures": {
-		"particle": "minecraft:block/tripwire_hook",
 		"body": "minecraft:block/tripwire_hook",
+		"particle": "minecraft:block/crafting_table_bottom",
 		"tripwire": "minecraft:block/tripwire"
 	},
 	"elements": [

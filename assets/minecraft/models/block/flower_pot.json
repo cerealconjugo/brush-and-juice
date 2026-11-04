@@ -3,8 +3,8 @@
 	"credit": "Made by CerealConJugo",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/flower_pot",
 		"body": "minecraft:block/flower_pot",
+		"particle": "#body",
 		"dirt": "minecraft:block/farmland_moist_side"
 	},
 	"elements": [

@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/templates/template_cane_4cross",
+	"parent": "minecraft:block/templates/template_sugar_cane",
 	"textures": {
 		"cross_1": "minecraft:block/plants/sugar_cane0",
 		"cross_2": "minecraft:block/plants/sugar_cane1",

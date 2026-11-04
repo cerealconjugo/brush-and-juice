@@ -4,10 +4,10 @@
 	"ambientocclusion": false,
 	"textures": {
 		"slab": "minecraft:block/smooth_stone",
-		"particle": "minecraft:block/repeater_on",
 		"top": "minecraft:block/repeater_on",
 		"lit": "minecraft:block/redstone_torch",
-		"lock": "minecraft:block/bedrock"
+		"lock": "minecraft:block/bedrock",
+		"particle": "#top"
 	},
 	"elements": [
 		{

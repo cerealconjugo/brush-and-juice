@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/templates/template_redstone_torch_wall",
+	"parent": "minecraft:block/templates/template_torch_wall_unlit",
 	"textures": {
 		"torch": "minecraft:block/redstone_torch_off"
 	}

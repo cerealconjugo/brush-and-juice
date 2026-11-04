@@ -1,43 +1,43 @@
 {
 	"format_version": "1.21.11",
-	"credit": "Made with Blockbench",
+	"credit": "Made by CerealConJugo",
 	"textures": {
-		"particle": "minecraft:item/spyglass_model",
-		"spyglass": "minecraft:item/spyglass_model"
+		"body": "minecraft:item/spyglass_model",
+		"particle": "#body"
 	},
 	"elements": [
 		{
 			"from": [7, 8.5, 7],
 			"to": [9, 13.5, 9],
 			"faces": {
-				"north": {"uv": [0, 2, 2, 7], "texture": "#spyglass"},
-				"east": {"uv": [2, 2, 0, 7], "texture": "#spyglass"},
-				"south": {"uv": [0, 2, 2, 7], "texture": "#spyglass"},
-				"west": {"uv": [2, 2, 0, 7], "texture": "#spyglass"},
-				"up": {"uv": [0, 0, 2, 2], "texture": "#spyglass"}
+				"north": {"uv": [0, 2, 2, 7], "texture": "#body"},
+				"east": {"uv": [2, 2, 0, 7], "texture": "#body"},
+				"south": {"uv": [0, 2, 2, 7], "texture": "#body"},
+				"west": {"uv": [2, 2, 0, 7], "texture": "#body"},
+				"up": {"uv": [0, 0, 2, 2], "texture": "#body"}
 			}
 		},
 		{
 			"from": [6.9, 3.4, 6.9],
 			"to": [9.15, 8.65, 9.15],
 			"faces": {
-				"north": {"uv": [0, 7, 2, 12], "texture": "#spyglass"},
-				"east": {"uv": [2, 7, 0, 12], "texture": "#spyglass"},
-				"south": {"uv": [0, 7, 2, 12], "texture": "#spyglass"},
-				"west": {"uv": [2, 7, 0, 12], "texture": "#spyglass"},
-				"up": {"uv": [1, 5, 2, 6], "texture": "#spyglass"}
+				"north": {"uv": [0, 7, 2, 12], "texture": "#body"},
+				"east": {"uv": [2, 7, 0, 12], "texture": "#body"},
+				"south": {"uv": [0, 7, 2, 12], "texture": "#body"},
+				"west": {"uv": [2, 7, 0, 12], "texture": "#body"},
+				"up": {"uv": [1, 5, 2, 6], "texture": "#body"}
 			}
 		},
 		{
 			"from": [6.8, 2.2, 6.8],
 			"to": [9.25, 3.45, 9.25],
 			"faces": {
-				"north": {"uv": [0, 12, 2, 13], "texture": "#spyglass"},
-				"east": {"uv": [2, 12, 0, 13], "texture": "#spyglass"},
-				"south": {"uv": [0, 12, 2, 13], "texture": "#spyglass"},
-				"west": {"uv": [2, 12, 0, 13], "texture": "#spyglass"},
-				"up": {"uv": [1, 11, 2, 12], "texture": "#spyglass"},
-				"down": {"uv": [0, 2, 2, 0], "texture": "#spyglass"}
+				"north": {"uv": [0, 12, 2, 13], "texture": "#body"},
+				"east": {"uv": [2, 12, 0, 13], "texture": "#body"},
+				"south": {"uv": [0, 12, 2, 13], "texture": "#body"},
+				"west": {"uv": [2, 12, 0, 13], "texture": "#body"},
+				"up": {"uv": [1, 11, 2, 12], "texture": "#body"},
+				"down": {"uv": [0, 2, 2, 0], "texture": "#body"}
 			}
 		}
 	],
@@ -68,7 +68,7 @@
 		},
 		"head": {
 			"rotation": [90, 0, 0],
-			"translation": [0, 0, -17],
+			"translation": [0, 0, -16],
 			"scale": [1.8, 1.8, 1.8]
 		},
 		"fixed": {

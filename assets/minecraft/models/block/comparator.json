@@ -1,12 +1,13 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made by CerealConJugo",
 	"ambientocclusion": false,
 	"textures": {
-		"particle": "minecraft:block/comparator",
 		"slab": "minecraft:block/smooth_stone",
 		"top": "minecraft:block/comparator",
 		"unlit": "minecraft:block/redstone_torch_off",
-		"lit": "minecraft:block/redstone_torch"
+		"lit": "minecraft:block/redstone_torch",
+		"particle": "top"
 	},
 	"elements": [
 		{

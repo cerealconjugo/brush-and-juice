@@ -1,9 +1,9 @@
 {
-  "parent": "minecraft:block/templates/template_crop_3cross",
-  "render_type": "minecraft:cutout",
-  "textures": {
-    "cross_1": "farmersdelight:block/onions_stage3",
-    "cross_2": "farmersdelight:block/onions_stage3b",
-    "cross_3": "farmersdelight:block/onions_stage3b"
-  }
+	"parent": "minecraft:block/templates/template_crop_carrots",
+	"render_type": "minecraft:cutout",
+	"textures": {
+		"cross_1": "farmersdelight:block/onions_stage3",
+		"cross_2": "farmersdelight:block/onions_stage3b",
+		"cross_3": "farmersdelight:block/onions_stage3b"
+	}
 }

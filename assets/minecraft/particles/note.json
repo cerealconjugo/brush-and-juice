@@ -1,8 +1,3 @@
 {
-  "textures": [
-    "minecraft:note_3",
-    "minecraft:note_2",
-    "minecraft:note_1",
-    "minecraft:note_0"
-  ]
+	"textures": ["minecraft:note_3", "minecraft:note_2", "minecraft:note_1", "minecraft:note_0"]
 }

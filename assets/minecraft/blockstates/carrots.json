@@ -3,7 +3,7 @@
 		"age=0": [
 			{
 				"model": "minecraft:block/crops/carrots_stage0",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage0",
@@ -24,7 +24,7 @@
 		"age=1": [
 			{
 				"model": "minecraft:block/crops/carrots_stage0",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage0",
@@ -45,7 +45,7 @@
 		"age=2": [
 			{
 				"model": "minecraft:block/crops/carrots_stage1",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage1",
@@ -66,7 +66,7 @@
 		"age=3": [
 			{
 				"model": "minecraft:block/crops/carrots_stage1",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage1",
@@ -87,7 +87,7 @@
 		"age=4": [
 			{
 				"model": "minecraft:block/crops/carrots_stage2",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage2",
@@ -108,7 +108,7 @@
 		"age=5": [
 			{
 				"model": "minecraft:block/crops/carrots_stage2",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage2",
@@ -129,7 +129,7 @@
 		"age=6": [
 			{
 				"model": "minecraft:block/crops/carrots_stage2",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage2",
@@ -150,7 +150,7 @@
 		"age=7": [
 			{
 				"model": "minecraft:block/crops/carrots_stage3",
-				"weight": 3
+				"weight": 2
 			},
 			{
 				"model": "minecraft:block/crops/carrots_stage3",

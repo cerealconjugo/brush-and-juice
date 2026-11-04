@@ -1,5 +1,5 @@
 {
-	"parent": "minecraft:block/templates/template_crop_1cross",
+	"parent": "minecraft:block/templates/template_crop_potatoes",
 	"textures": {
 		"crop": "minecraft:block/crops/potatoes_stage1"
 	}
